@@ -56,7 +56,7 @@ Nedbank, like many financial institutions, needs to accurately forecast daily tr
 ## 5. How to Reproduce My Work
 
 1. **Clone this repository:**  
-   `git clone [https://github.com/TshiamoMatshaba/nedbank-transaction-forecast.git`](https://github.com/TshiamoMatshaba/Nedbank-Transaction-Volume-Forecasting-Challenge.git)
+   `git clone (https://github.com/TshiamoMatshaba/Nedbank-Transaction-Volume-Forecasting-Challenge.git)
 
 2. **Navigate to the project folder:**  
    `cd nedbank-transaction-forecast`
