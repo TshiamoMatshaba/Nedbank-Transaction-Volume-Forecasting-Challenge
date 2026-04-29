@@ -1,0 +1,51 @@
+feature,importance
+txn_last_365d,539
+monthly_cv,403
+txn_last_30d,402
+txn_last_180d,344
+monthly_mean,339
+prev_year,290
+recency,272
+monthly_std,267
+txn_last_60d,245
+type_Transfers & Payments_ratio,239
+monthly_last3_mean,216
+monthly_trend,212
+type_Charges & Fees_ratio,191
+txn_last_90d,184
+monthly_max,166
+type_Transfers & Payments,156
+fin_months_count,150
+type_Interest & Investments_ratio,127
+type_Charges & Fees,110
+inc_Not Disclosed / Unknown,68
+type_Unpaid / Returned Items_ratio,59
+type_Debit Orders & Standing Orders_ratio,43
+type_Withdrawals_ratio,35
+type_Foreign Exchange_ratio,35
+type_Interest & Investments,34
+type_Reversals & Adjustments_ratio,29
+monthly_min,26
+has_financial,25
+inc_Low Income,20
+type_Other / Unclassified,19
+inc_Middle Income,19
+type_Deposits_ratio,19
+type_Other / Unclassified_ratio,17
+type_Teller & Branch Transactions_ratio,17
+type_Debit Orders & Standing Orders,15
+type_Account Maintenance_ratio,12
+inc_Upper-Middle Income,10
+type_Withdrawals,9
+type_Foreign Exchange,9
+inc_Very High Income,8
+type_Unpaid / Returned Items,7
+inc_High Income,4
+type_Reversals & Adjustments,3
+inc_No Income,3
+type_Teller & Branch Transactions,2
+type_Deposits,1
+type_Account Maintenance,0
+type_Card Transactions,0
+inc_Lower-Middle Income,0
+type_Card Transactions_ratio,0
