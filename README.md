@@ -87,7 +87,8 @@ Nedbank, like many financial institutions, needs to accurately forecast daily tr
 ## 7. Dashboard Preview
 
 An interactive Power BI dashboard was built to visualise historical vs predicted volumes.  
-![Power BI Dashboard]Screenshot 2026-04-29 183926.png
+![Power BI Dashboard]Nedbank-Transaction-Volume-Forecasting-Challenge
+/Screenshot 2026-04-29 183926.png
 
 ---
 
