@@ -65,7 +65,7 @@ Nedbank, like many financial institutions, needs to accurately forecast daily tr
    `pip install -r requirements.txt`
 
 4. **Run the notebooks in order:**  
-   - `notebooks/01_EDA_and_preprocessing.ipynb`  
+   - `(https://github.com/TshiamoMatshaba/Nedbank-Transaction-Volume-Forecasting-Challenge/blob/main/notebooks/nedbank-transactional-volume-forecast.ipynb)`  
    - `notebooks/02_model_training_ARIMA_Prophet.ipynb`  
    - `notebooks/03_XGBoost_and_evaluation.ipynb`
 
